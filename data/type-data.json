@@ -1,0 +1,265 @@
+{
+    "Bug": {
+        "Immunities": [
+            "None"
+        ],
+        "Strengths": [
+            "Dark",
+            "Grass",
+            "Psychic"
+        ],
+        "Weaknesses": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ]
+    },
+    "Dark": {
+        "Immunities": [
+            "None"
+        ],
+        "Strengths": [
+            "Ghost",
+            "Psychic"
+        ],
+        "Weaknesses": [
+            "Bug",
+            "Fairy",
+            "Fighting"
+        ]
+    },
+    "Dragon": {
+        "Immunities": [
+            "None"
+        ],
+        "Strengths": [
+            "Dragon"
+        ],
+        "Weaknesses": [
+            "Dragon",
+            "Fairy",
+            "Ice"
+        ]
+    },
+    "Electric": {
+        "Immunities": [
+            "None"
+        ],
+        "Strengths": [
+            "Flying",
+            "Water"
+        ],
+        "Weaknesses": [
+            "Ground"
+        ]
+    },
+    "Fairy": {
+        "Immunities": [
+            "Dragon"
+        ],
+        "Strengths": [
+            "Dark",
+            "Dragon",
+            "Fighting"
+        ],
+        "Weaknesses": [
+            "Poison",
+            "Steel"
+        ]
+    },
+    "Fighting": {
+        "Immunities": [
+            "None"
+        ],
+        "Strengths": [
+            "Dark",
+            "Ice",
+            "Normal",
+            "Rock",
+            "Steel"
+        ],
+        "Weaknesses": [
+            "Fairy",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    "Fire": {
+        "Immunities": [
+            "None"
+        ],
+        "Strengths": [
+            "Bug",
+            "Grass",
+            "Ice",
+            "Steel"
+        ],
+        "Weaknesses": [
+            "Ground",
+            "Rock",
+            "Water"
+        ]
+    },
+    "Flying": {
+        "Immunities": [
+            "Ground"
+        ],
+        "Strengths": [
+            "Bug",
+            "Fighting",
+            "Grass"
+        ],
+        "Weaknesses": [
+            "Electric",
+            "Ice",
+            "Rock"
+        ]
+    },
+    "Ghost": {
+        "Immunities": [
+            "Fighting",
+            "Normal"
+        ],
+        "Strengths": [
+            "Ghost",
+            "Psychic"
+        ],
+        "Weaknesses": [
+            "Dark"
+        ]
+    },
+    "Grass": {
+        "Immunities": [
+            "None"
+        ],
+        "Strengths": [
+            "Ground",
+            "Rock",
+            "Water"
+        ],
+        "Weaknesses": [
+            "Bug",
+            "Fire",
+            "Flying",
+            "Ice",
+            "Poison"
+        ]
+    },
+    "Ground": {
+        "Immunities": [
+            "Electric"
+        ],
+        "Strengths": [
+            "Electric",
+            "Fire",
+            "Poison",
+            "Rock",
+            "Steel"
+        ],
+        "Weaknesses": [
+            "Grass",
+            "Ice",
+            "Water"
+        ]
+    },
+    "Ice": {
+        "Immunities": [
+            "None"
+        ],
+        "Strengths": [
+            "Dragon",
+            "Flying",
+            "Grass",
+            "Ground"
+        ],
+        "Weaknesses": [
+            "Fighting",
+            "Fire",
+            "Rock",
+            "Steel"
+        ]
+    },
+    "Normal": {
+        "Immunities": [
+            "Ghost"
+        ],
+        "Strengths": [
+            "None"
+        ],
+        "Weaknesses": [
+            "Fighting"
+        ]
+    },
+    "Poison": {
+        "Immunities": [
+            "None"
+        ],
+        "Strengths": [
+            "Fairy",
+            "Grass"
+        ],
+        "Weaknesses": [
+            "Ground",
+            "Psychic"
+        ]
+    },
+    "Psychic": {
+        "Immunities": [
+            "None"
+        ],
+        "Strengths": [
+            "Fighting",
+            "Poison"
+        ],
+        "Weaknesses": [
+            "Bug",
+            "Dark",
+            "Ghost"
+        ]
+    },
+    "Rock": {
+        "Immunities": [
+            "None"
+        ],
+        "Strengths": [
+            "Fairy",
+            "Ice",
+            "Rock"
+        ],
+        "Weaknesses": [
+            "Fire",
+            "Fighting",
+            "Ground"
+        ]
+    },
+    "Steel": {
+        "Immunities": [
+            "Poison"
+        ],
+        "Strengths": [
+            "Fairy",
+            "Ice",
+            "Rock"
+        ],
+        "Weaknesses": [
+            "Electric",
+            "Fire",
+            "Steel",
+            "Water"
+        ]
+    },
+    "Water": {
+        "Immunities": [
+            "None"
+        ],
+        "Strengths": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "Weaknesses": [
+            "Electric",
+            "Grass"
+        ]
+    }
+}
