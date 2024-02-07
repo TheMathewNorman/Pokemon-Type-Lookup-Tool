@@ -1,5 +1,5 @@
 import prompts from "prompts"
-import { readDataFile } from './load-data'
+import { readDataFile } from './setup/load-data'
 
 interface Types {
     [type: string]: TypeData;

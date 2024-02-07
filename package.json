@@ -1,5 +1,8 @@
 {
-  "devDependencies": {
+  "dependencies": {
+    "@types/node": "^20.11.16",
+    "prompts": "^2.4.2",
+    "tslib": "^2.6.2",
     "@tsconfig/node16": "^16.1.1",
     "@types/fs-extra": "^11.0.4",
     "@types/prompts": "^2.4.4",
@@ -8,10 +11,7 @@
     "typescript": "^5.3.3",
     "util": "^0.12.5"
   },
-  "dependencies": {
-    "@types/node": "^20.11.16",
-    "axios": "^1.5.0",
-    "prompts": "^2.4.2",
-    "tslib": "^2.6.2"
+  "scripts": {
+    "start": "ts-node pokemon.ts"
   }
 }
